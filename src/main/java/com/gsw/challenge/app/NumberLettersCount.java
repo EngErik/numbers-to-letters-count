@@ -1,5 +1,17 @@
+/*
+ * @(#)NumberLettersCount.java 1.0 03/01/2017
+ *
+ * Copyright (c) 2017, Erik Paula. All rights reserved.
+ */
 package com.gsw.challenge.app;
 
+/**
+ * Classe que contem a logica da resolucao do desafio
+ * Numbers Letters Count.
+ * 
+ * @author Erik Paula
+ *
+ */
 public class NumberLettersCount implements NumberLettersCountRunner {
 
     public static void main(String[] args) {
